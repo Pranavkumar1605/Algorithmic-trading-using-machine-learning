@@ -17,7 +17,7 @@ This project demonstrates a machine learning-based algorithmic trading approach 
 
   -  jupyter notebook
 
-  -  libraries like install **pandas numpy MetaTrader5 xgboost scikit-learn** etc...
+  -  libraries such as **pandas numpy MetaTrader5 xgboost scikit-learn** etc...
 
 
 ## Features
