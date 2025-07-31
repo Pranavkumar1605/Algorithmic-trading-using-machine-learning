@@ -1,8 +1,30 @@
-## Algorithmic-trading-using-machine-learning
-This project demonstrates basic algorithmic trading strategies using Python. The Jupyter Notebook includes code for fetching market data, analyzing trends, and generating trade signals.
-# Requirements
-   Python
+# Algorithmic-trading-using-machine-learning
+This project demonstrates a machine learning-based algorithmic trading approach using Python. It connects to MetaTrader 5 to fetch market data, preprocesses it, and uses XGBoost to generate predictive trading signals.
+## Project Overview
+   - Connect to MetaTrader 5 to fetch historical OHLC data.
    
-   Jupyter
+   - Preprocess the data using pandas and numpy.
    
-   Libraries like numpy, pandas, MetaTrader, Scikitlearn etc...
+   - Feature engineering for predictive modeling.
+
+   - Train an XGBoost model to generate buy/sell signals.
+
+   - Evaluate performance using validation metrics.
+
+## Features
+   - Real-time/historical data fetching from MetaTrader 5.
+
+   - Machine learning with XGBoost for signal generation.
+
+   - Data normalization and scaling with Scikit-learn.
+
+## Outputs
+
+   - Preprocessed market data ready for ML models.
+
+   - Buy/Sell predictions using XGBoost.
+
+   - Performance metrics for strategy evaluation.
+
+
+
