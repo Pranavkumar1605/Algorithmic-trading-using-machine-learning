@@ -11,6 +11,15 @@ This project demonstrates a machine learning-based algorithmic trading approach 
 
    - Evaluate performance using validation metrics.
 
+## Requirements
+
+  -  python
+
+  -  jupyter notebook
+
+  -  libraries like install **pandas numpy MetaTrader5 xgboost scikit-learn** etc...
+
+
 ## Features
    - Real-time/historical data fetching from MetaTrader 5.
 
